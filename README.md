@@ -56,6 +56,9 @@ https://fakestoreapi.com/products
 This project is deployed on Netlify:  
 https://extraordinary-lily-0c4de5.netlify.app/
 
+1. ![Dashboard Screenshot](./img.png)
+
+
 ---
 
 ## 🚀 Setup Instructions
